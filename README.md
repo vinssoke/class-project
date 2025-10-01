@@ -1,14 +1,16 @@
-# class-project
-This is a class project about uploading a xml and dtd with a read.md
+# CLASS-PROJECT
+## This is a class project about uploading a xml and dtd with a read.md
 
-GETTING STARTED.
-TO USE THIS FILES YOU HAVE TO DOWNLOAD THEM,GO TO YOUR VISUAL STUDIO CODE AND GO TO THE CORNER IN THE TOP LEFT.
-THEN CLICK IN ARCHIVE AND SEARCH WHERE DO YOU HAVE YOUR FILES DOWNLOADED.
-AFTER THIS YOU HAVE TO CLICK ON THEM AND THEY ARE GONNA OPEN IN YOUR VISUAL STUDIO CODE.
-NOW YOU CAN USE THE CODE,EDIT AND MORE!
+# GETTING STARTED.
+- ## To use this files just click on them and download them
+- ## Then go to your vs code and click on archive in the left corner in the top
+- ## Now click on "Open files" and open both files
+- ## Now you have both of the files to edit or use!
 
-ACKNOWLEGMENT
-I WANNA SAY THANKS TO MY TEACHER TIBURCIO FOR TEACHING AND HELPING IN THE PROCESS OF THIS PROJECT
+# ACKNOWLEGMENT
+## I wanna say thanks to my teacher Tiburcio for helping in this project
 
-AUTHORS
-MARCO JOSE SUAREZ DIAZ.
+# AUTHORS
+### MARCO JOSE SUAREZ DIAZ.
+
+[My web page](sipw.blog)
