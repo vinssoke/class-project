@@ -1,0 +1,16 @@
+<!ELEMENT VideogameChain (Company+)>
+<!ATTLIST VideogameChain name CDATA #REQUIRED>
+
+<!ELEMENT Company (Name, Founded, Country, Videogames)>
+<!ATTLIST Company id ID #REQUIRED>
+
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Founded (#PCDATA)>
+<!ELEMENT Country (#PCDATA)>
+
+<!ELEMENT Videogames (Videogame+)>
+<!ELEMENT Videogame (Title, Genre, ReleaseYear)>
+
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT Genre (#PCDATA)>
+<!ELEMENT ReleaseYear (#PCDATA)>
